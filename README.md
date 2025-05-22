@@ -3,7 +3,7 @@
 
 - 🌱 Eu atualmente estou aprendendo **C#**
 
-- 📫 Como me achar **rafasouza.silva03gmail.com**
+- 📫 Como me achar **rafasouza.silva03@gmail.com**
   
 - 🎓 Estudando Análise e Desenvolvimento de Sistemas na Athon Ensino Superior.
 
