@@ -5,7 +5,7 @@
 
 - 📫 Como me achar **rafasouza.silva03@gmail.com**
   
-- 🎓 Estudando Análise e Desenvolvimento de Sistemas na Athon Ensino Superior.
+- 🎓 Formado em Análise e Desenvolvimento de Sistemas na Anhembi Morumbi.
 
 <h3 align="left">Como me achar:</h3>
 <p align="left">
