@@ -1,7 +1,7 @@
 <h1 align="center">Olá! Sou o Rafael</h1>
 <h3 align="center">Sou um estudante de programação no Brasil</h3>
 
-- 🌱 Eu atualmente estou aprendendo **MySQL**
+- 🌱 Eu atualmente estou aprendendo **Pandas**
 
 - 📫 Como me achar **rafasouza.silva03@gmail.com**
   
