@@ -1,5 +1,5 @@
 <h1 align="center">Olá! Sou o Rafael</h1>
-<h3 align="center">Sou um estudante de programação no Brasil</h3>
+<h3 align="center">Estudante de dados | SQL, Python, Pandas, Power BI</h3>
 
 - 🌱 Eu atualmente estou aprendendo **Pandas**
 
